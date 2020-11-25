@@ -16,6 +16,19 @@ Build your own React
 2.list
    * With some
    * Sub bullets
+
+```
+const container = document.getElementById("root")
+​
+const node = document.createElement(element.type)
+node["title"] = element.props.title
+​
+const text = document.createTextNode("")
+text["nodeValue"] = element.props.children
+​
+node.appendChild(text)
+container.appendChild(node)
+```
 </details>
 
 We are going to rewrite React from scratch. Step by step. Following the architecture from the real React code but without all the optimizations and non-essential features.
