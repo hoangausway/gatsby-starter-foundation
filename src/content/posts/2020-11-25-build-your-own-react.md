@@ -4,6 +4,7 @@ title: Build your own React
 slug: /build-your-own-react
 date: 2020-11-25 12:17
 description: Build your own React
+featuredImage: /assets/fredrick-tendong-hvyepjyehdq-unsplash.jpg
 ---
 Build your own React
 
