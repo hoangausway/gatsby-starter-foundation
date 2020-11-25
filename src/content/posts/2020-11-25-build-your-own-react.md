@@ -8,6 +8,16 @@ featuredImage: /assets/fredrick-tendong-hvyepjyehdq-unsplash.jpg
 ---
 Build your own React
 
+<details>
+   <summary>Click to expand</summary>
+
+## Heading
+1. A numbered
+2.list
+   * With some
+   * Sub bullets
+</details>
+
 We are going to rewrite React from scratch. Step by step. Following the architecture from the real React code but without all the optimizations and non-essential features.
 
 If you’ve read any of my previous “build your own React” posts, the difference is that this post is based on React 16.8, so we can now use hooks and drop all the code related to classes.
